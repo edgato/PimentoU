@@ -1,5 +1,5 @@
 ---
-title: Test Post
+title: Límites en funciones
 layout: post
 img: limits.jpg
 
