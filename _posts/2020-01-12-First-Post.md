@@ -6,7 +6,7 @@ img: limits.jpg
   
 Hola, este es un post de prueba para aprender como se utiliza Jekyll
 
-$$ E = mc^2 $$ 
+$$ \lim_{x \to 2} f(x) = 5 $$ 
 
 Papas
 
