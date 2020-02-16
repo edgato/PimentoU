@@ -1,0 +1,72 @@
+[33mcommit 4346392a29f1a5f36260439f0251c1df40c41f02[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: edgato <edgato_lobo@hotmail.com>
+Date:   Fri Feb 14 17:11:50 2020 -0600
+
+    restored demo files
+
+[33mcommit de57a4d40c188e2e5a189d8703bb61074d971a81[m
+Author: edgato <edgato_lobo@hotmail.com>
+Date:   Fri Feb 14 17:10:49 2020 -0600
+
+    deleted demo files
+
+[33mcommit 0c619adbb8f24451903d5fcea6966e3ed07615cf[m
+Author: edgato <edgato_lobo@hotmail.com>
+Date:   Fri Feb 14 11:53:07 2020 -0600
+
+    New post format
+
+[33mcommit e8e3f497dd3b1acdda93c146fb3b37f0a32d3821[m
+Author: edgato <edgato_lobo@hotmail.com>
+Date:   Fri Feb 14 11:46:36 2020 -0600
+
+    latex test
+
+[33mcommit ec70a77a0db5ef3ba818b3971a86c13336964d3f[m
+Author: edgato <edgato_lobo@hotmail.com>
+Date:   Thu Feb 13 19:49:07 2020 -0600
+
+    Comments
+
+[33mcommit 1c0856921968ce17784b3887be94350bc36d626e[m
+Author: edgato <edgato_lobo@hotmail.com>
+Date:   Thu Feb 13 19:26:36 2020 -0600
+
+    Post Test
+
+[33mcommit 3d38767d7bc5c520dee5a50248ecad62406c5123[m
+Author: edgato <edgato_lobo@hotmail.com>
+Date:   Thu Feb 13 19:10:30 2020 -0600
+
+    Post de prueba
+
+[33mcommit d61bad2fda54473b70276cbef348d4d56c59ab19[m
+Author: edgato <edgato_lobo@hotmail.com>
+Date:   Wed Feb 12 22:58:32 2020 -0600
+
+    update logos
+
+[33mcommit b7a1984eb6fe4676d7e9339477308bfd9413e73a[m
+Merge: 180a54b 7bd431d
+Author: edgato <edgato_lobo@hotmail.com>
+Date:   Wed Feb 12 19:46:23 2020 -0600
+
+    Merge branch 'master' of https://github.com/edgato/PimentoU
+
+[33mcommit 180a54b40290f1beb0ee43175b60fa68cdde996f[m
+Author: edgato <edgato_lobo@hotmail.com>
+Date:   Wed Feb 12 19:45:49 2020 -0600
+
+    Change base URL
+
+[33mcommit 7bd431dcf2bfa7a6539dc3e85d7b1bc42742b81d[m
+Author: edgato <edgato_lobo@hotmail.com>
+Date:   Wed Feb 12 19:31:47 2020 -0600
+
+    Create CNAME
+
+[33mcommit b605b2b1856fd075c7537f1763ac79485553bad3[m
+Author: edgato <edgato_lobo@hotmail.com>
+Date:   Wed Feb 12 19:30:21 2020 -0600
+
+    First Upload
