@@ -10,12 +10,14 @@ Al trabajar con ordenadores es común que se quiera realizar cambios a un archiv
 Es común por lo tanto crear diferentes cópias de los archivos en caso de que algo no salga según lo que esperabamos al realizar los cambios. Por lo tanto es importante contar con algún tipo de registro del trabajo hecho y la posibilidad de deshacerlo en caso de ser necesario.
 Precisamente esto es lo que permite la herramienta [Git](https://git-scm.com/) 
 
-Add
+Add: se utiliza para agregar los cambios al commit 
 
-Commit
+Commit: crea un punto de control 
 
-Checkout
+Checkout: permite cambiar a otra rama del repositorio
 
-Push 
+Push: carga los archivos a la dirección indicada
 
-Pull 
+Pull: descarga los archivos de la dirección
+
+Remote: agrega una dirección remota a una palabra clave
