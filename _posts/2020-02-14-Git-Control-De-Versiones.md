@@ -9,18 +9,20 @@ Al trabajar con ordenadores es común que se quiera realizar cambios a un archiv
 
 Es común por lo tanto crear diferentes cópias de los archivos en caso de que algo no salga según lo que esperabamos al realizar los cambios. Por lo tanto es importante contar con algún tipo de registro del trabajo hecho y la posibilidad de deshacerlo en caso de ser necesario.
 
-Precisamente esto es lo que permite la herramienta [Git](https://git-scm.com/) 
+Precisamente esto es lo que permite la herramienta [Git](https://git-scm.com/), algunas de las funciones que se utilizan más frecuantemente se explican a continuación.
 
-status: muestra una lista de los cambios realizados desde el último commit realizado.
+**Init**: Crea un repositorio en la carpeta indicada.
 
-add: se utiliza para agregar los cambios al commit.
+**status**: Muestra una lista de los cambios realizados desde el último commit realizado.
 
-commit: crea un punto de control.
+**add**: Agregar los cambios al commit.
 
-checkout: permite cambiar a otra rama del repositorio.
+**commit**: Crea un punto de control.
 
-push: carga los archivos a la dirección indicada.
+**checkout**: Cambiar la rama del repositorio con la que se está trabajando.
 
-pull: descarga los archivos de la dirección.
+**push**: Carga los archivos a la dirección remota indicada.
 
-remote: agrega una dirección remota a una palabra clave.
+**pull**: Descarga los archivos de la dirección remota indicada.
+
+**remote**: Agrega una palabra clave a la dirección remota indicada.
